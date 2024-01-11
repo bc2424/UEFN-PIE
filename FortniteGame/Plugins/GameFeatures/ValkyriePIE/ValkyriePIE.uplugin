@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "22.30",
+	"Plugins": [
+		{
+			"Name": "BattleRoyaleContent",
+			"Enabled": true
+		},
+		{
+			"Name": "BattleRoyaleUI",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,34 @@
+import System;
+import System.Web;
+import System.Windows.Forms;
+import Fiddler;
+
+class Handlers
+{ 
+    static function OnBeforeRequest(oSession: Session) {
+        if (oSession.hostname.Contains("epicgames.com")) {
+            if (oSession.HTTPMethodIs("CONNECT"))
+            {
+                oSession["x-replywithtunnel"] = "FortniteTunnel";
+                return;
+            }
+            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
+        }
+        else if (oSession.hostname.Contains("epicgames.net")) {
+            if (oSession.HTTPMethodIs("CONNECT"))
+            {
+                oSession["x-replywithtunnel"] = "FortniteTunnel";
+                return;
+            }
+            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
+        }
+        else if (oSession.hostname.Contains("epicgames.dev")) {
+            if (oSession.HTTPMethodIs("CONNECT"))
+            {
+                oSession["x-replywithtunnel"] = "FortniteTunnel";
+                return;
+            }
+            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
+        }
+    }
+}
