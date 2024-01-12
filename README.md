@@ -35,7 +35,7 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 - other stuff I forgot
 
 ## Credits
-simonhxd - worked on majority of blueprint functionality for ingame
-wiktorwiktor12a - better animations patch for UEFN
-sizzyleaks and taijames - inventory
-gamerbross - random help
+- simonhxd - worked on majority of blueprint functionality for ingame
+- wiktorwiktor12a - better animations patch for UEFN
+- sizzyleaks and taijames - inventory
+- gamerbross - random help
