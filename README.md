@@ -29,13 +29,17 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 
 ## To do
 - Move to 27.11, requires UI fix but would be optimal as more people have this build
-- Weapon sounds
+- Weapon Sounds
 - Look into emoting
 - Look into vehicles
 - Make equipping skins in BR easier
 - Apply styles to STW skins
 - Fix funny anim when editing
 - other stuff I forgot
+- Gadgets
+- Fix Sliding Anim
+- Fix Storm Damage in BR
+- Fix Particle FX
 
 ## Credits
 - simonhxd - worked on majority of blueprint functionality for ingame
