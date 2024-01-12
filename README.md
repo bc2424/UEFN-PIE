@@ -1,7 +1,9 @@
 # UEFN-PIE
- Play-in-Editor for Unreal Editor for Fortnite
+ Play-in-Editor for 24.20 Unreal Editor for Fortnite
 
-Allows you to go ingame using only UEFN on the Save the World and Battle Royale gamemodes. This is useful as it is incredibly easy to create mods. It's basically the same as Carbon but it's in editor instead. (and the BR map doesn't work bc it's UEFN!)
+Allows you to go ingame using UEFN on Save the World and Battle Royale gamemodes.
+
+tldr it's carbon but in editor instead (and the BR map doesn't work bc it's UEFN!)
 
 ## How to install
 
