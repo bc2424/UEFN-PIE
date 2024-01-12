@@ -18,6 +18,7 @@ tldr it's carbon but in editor instead (and the BR map doesn't work bc it's UEFN
 9. In UEFN Click the three dots next to Platform and scroll down to NetMode, make sure it is set to Play Standalone.
 
 Once everything is set up you just need to have fiddler and lawin open to play PIE! Select a map and set the GameMode override in the world settings to BattleRoyale_Gamemode to load BR, the default gamemode is STW.
+
 Equip items by adding to the Inventory Items to Grant in the Editor Preferences in Save The World Cheats.
 
 ## Features
