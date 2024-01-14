@@ -35,8 +35,8 @@ https://drive.google.com/file/d/1xwQtEQ5-itL8O2_5n1x0oEIPwqsDqc7q/view?usp=drive
 - Weapon Sounds
 - Look into emoting
 - Look into vehicles
-- Fix funny anim when editing
-- other stuff I forgot
+- Fix Editing Animation
+- Fix Edit Delay
 - Gadgets
 - Fix Sliding Anim
 - Fix Storm Damage in BR
