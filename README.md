@@ -13,7 +13,7 @@ tldr it's carbon but in editor instead (and the BR map doesn't work bc it's UEFN
 4. Download UEFN-PIE's code as a ZIP and extract it to the same location as 24.20 (merging FortniteGame folders).
 5. Download [xdelta](https://www.romhacking.net/download/utilities/598/) and set "PIE_2420_v1.xdelta" as the patch and UnrealEditorFortnite-Win64-Shipping.exe in "FortniteGame/Binaries/Win64" as the Source File, make sure the target file is an exe inside the Win64 folder.
 6. Download [Fiddler Classic](https://www.telerik.com/download/fiddler), once Fiddler is set up copy the contents of FiddlerScript.txt and paste it into the FiddlerScript tab inside Fiddler, go into Tools -> Options -> HTTPS and make sure Capture HTTPS CONNECTs, Decrypt HTTPS traffic, Ignore server certificate errors (unsafe) are all checked, then click Actions and Trust Root Certificate clicking yes when prompted.
-7. Download [LawinServer](https://github.com/Lawin0129/LawinServer), run install_packages.bat, then setup.bat.
+7. Download [LawinServer](https://github.com/Lawin0129/LawinServer), run install_packages.bat, then launch.bat.
 8. Open your patched exe from xdelta, click on Edit in the top left, then Editor Preferences..., scroll down to Play Credentials and Enable Logins and add Credentials, User Id will be your username on Lawin, Password doesn't matter but needs to be filled in, Type should be set to epic or exchangecode.
 9. In UEFN Click the three dots next to Platform and scroll down to NetMode, make sure it is set to Play Standalone and click play, if it loads into lobby, try again.
 
@@ -32,6 +32,7 @@ https://drive.google.com/file/d/1xwQtEQ5-itL8O2_5n1x0oEIPwqsDqc7q/view?usp=drive
 
 ## To do
 - Move to 27.11, requires UI fix but would be optimal as more people have this build
+- Patch the exe so fiddler is no longer required
 - Weapon Sounds
 - Look into emoting
 - Look into vehicles
