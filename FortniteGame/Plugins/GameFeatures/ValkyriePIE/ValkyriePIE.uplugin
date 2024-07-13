@@ -25,6 +25,10 @@
 		{
 			"Name": "SaveTheWorld",
 			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
 		}
 	]
 }
