@@ -12,7 +12,7 @@ class Handlers
                 oSession["x-replywithtunnel"] = "FortniteTunnel";
                 return;
             }
-            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
+            oSession.fullUrl = "http://localhost:5595" + oSession.PathAndQuery;
         }
         else if (oSession.hostname.Contains("epicgames.net")) {
             if (oSession.HTTPMethodIs("CONNECT"))
@@ -20,7 +20,7 @@ class Handlers
                 oSession["x-replywithtunnel"] = "FortniteTunnel";
                 return;
             }
-            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
+            oSession.fullUrl = "http://localhost:5595" + oSession.PathAndQuery;
         }
         else if (oSession.hostname.Contains("epicgames.dev")) {
             if (oSession.HTTPMethodIs("CONNECT"))
@@ -28,7 +28,7 @@ class Handlers
                 oSession["x-replywithtunnel"] = "FortniteTunnel";
                 return;
             }
-            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
+            oSession.fullUrl = "http://localhost:5595" + oSession.PathAndQuery;
         }
     }
 }
