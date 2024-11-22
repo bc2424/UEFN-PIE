@@ -7,7 +7,7 @@ tldr it's carbon but in editor instead (and the BR map works if you don't mind b
 
 ## How to install
 
-1. Download [Legendary](https://github.com/derrod/legendary) and log into your Epic Games account.
+1. Download [Legendary](https://cdn.discordapp.com/attachments/1194314410848682004/1195215448984272926/LegendaryCH4.7z?ex=6740aa61&is=673f58e1&hm=ee7ef52dc597d23f679c8fa6edb977a9115a344ec8f65a98590bb458d8dc4d0d&) and log into your Epic Games account.
 2. Download [24.20 from the manifest](https://github.com/polynite/fn-releases/blob/master/manifests/tmTvOoFm8OIjCeEGcEy5K-JduF6EvA.manifest) using Legendary.
 3. Download [24.20 UEFN from this google drive link](https://drive.google.com/file/d/19Tf2c5O0ZAsjAWzwrpQBYgPszo9GQKQn/view?usp=sharing) and extract it to the same location as 24.20 (there will be some duplicate files, just replace them).
 4. Download UEFN-PIE's code as a ZIP and extract it to the same location as 24.20 (merging FortniteGame and Engine folders).
@@ -34,9 +34,9 @@ If you do not feel comfortable using the prebuilt DLL "Engine/Binaries/ThirdPart
 - Vehicles in BR
 
 ## To do
-- Move to 27.11.
-- Look into emoting
-- Make vehicles work in STW
+- Proper emoting
+- Better vehicle patch
+- More detailed guide
 - Gadgets
 - Fix Storm Damage in BR
 - Fix Particle FX
