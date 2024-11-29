@@ -34,6 +34,7 @@ If you do not feel comfortable using the prebuilt DLL "Engine/Binaries/ThirdPart
 - Vehicles in BR
 
 ## To do
+- better fiddler bypass (doesn't fully remove EOS error so it fails sometimes)
 - Proper emoting
 - Better vehicle patch
 - More detailed guide
