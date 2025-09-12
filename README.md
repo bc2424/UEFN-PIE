@@ -1,3 +1,6 @@
+# NOTICE
+UEFN-PIE is outdated and hard to get working now that several things it uses are down. [It is recommended you use my new UEFN-Util project](https://github.com/bc2424/uefn-util), which is UEFN-PIE but on season 31.41 with a much simpler installation.
+
 # UEFN-PIE
  Play-in-Editor for 24.20 Unreal Editor for Fortnite
 
